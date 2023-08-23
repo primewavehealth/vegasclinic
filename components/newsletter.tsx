@@ -59,7 +59,7 @@ export default function Newsletter() {
          <div className="flex flex-col max-w-xs mx-auto justify-left sm:flex-row sm:max-w-md lg:mx-0">
           <Link
            className="text-white bg-blue-600 shadow btn hover:bg-blue-700"
-           href="#0"
+           href="https://cal.com/vegasclinic/appointment"
           >
            Schedule An Appointment
           </Link>

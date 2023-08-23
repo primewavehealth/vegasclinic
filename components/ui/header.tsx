@@ -44,10 +44,10 @@ export default function Header() {
        </li>
        <li>
         <Link
-         href="/"
+         href="https://cal.com/vegasclinic/appointment"
          className="ml-3 text-lg text-gray-200 bg-gray-900 btn-sm hover:bg-gray-800"
         >
-         <span>Contact Us</span>
+         <span>Appointments</span>
          <svg
           className="w-3 h-3 ml-2 -mr-1 text-gray-400 fill-current shrink-0"
           viewBox="0 0 12 12"
