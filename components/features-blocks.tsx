@@ -9,7 +9,7 @@
     <div className="relative max-w-6xl px-4 mx-auto sm:px-6 md:px-25">
         <div className="py-12 md:py-10">
         {/* Section header */}
-        <div className="max-w-3xl pb-12 mx-auto text-center md:pb-15">
+        <div className="max-w-3xl pb-12 mx-auto text-center md:pb-10">
         <h2 className="mb-4 h2">Explore Our Services</h2>
         <p className="text-xl text-gray-600">
         Discover a realm of unparalleled care and rejuvenation at our med spa.
@@ -22,7 +22,7 @@
         <div className="px-4 mx-auto sm:px-6">
         <div className="py-8 md:py-20 lg:py-10">
         {/* Items */}
-        <div className="grid items-start max-w-sm gap-6 mx-auto md:grid-cols-2 lg:grid-cols-3 md:max-w-2xl lg:max-w-none">
+        <div className="grid items-start max-w-sm gap-6 mx-auto md:grid-cols-2 lg:grid-cols-3 md:max-w-none lg:max-w-none">
         {/* 1st item */}
         <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
         <svg
