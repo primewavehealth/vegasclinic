@@ -3,10 +3,10 @@ export default function FeaturesBlocks() {
   <section className="relative" id="services">
    {/* Section background (needs .relative class on parent and next sibling elements) */}
    <div
-    className="absolute inset-0 bg-gray-900 pointer-events-none top-1/2 md:mt-24 lg:mt-0"
+    className="absolute bg-gray-900 rounded inset-0 top-1/6 pointer-events-none md:inset-x-12 md:inset-y-5 md:left-1/10  md:right-1/10 mt-96 mb-4 mx-1 md:mt-60 lg:mt-5"
     aria-hidden="true"
    ></div>
-   <div className="absolute bottom-0 left-0 right-0 w-px h-20 p-px m-auto transform translate-y-1/2 bg-gray-200"></div>
+   <div className="absolute bottom-0 left-0 right-0 w-px h-20 p-px m-auto transform translate-y-1/2"></div>
 
    <div className="relative max-w-6xl px-4 mx-auto sm:px-6">
     <div className="py-12 md:py-20">
