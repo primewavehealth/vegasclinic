@@ -1,5 +1,6 @@
 import ModalVideo from "@/components/modal-video";
 import herothumb from "@/public/images/herothumb.jpg";
+import "./css/scroll.css"
 
 export default function Hero() {
  return (

@@ -47,7 +47,7 @@ export default function Testimonials() {
      </div>
 
      {/* Testimonials */}
-     <div className="max-w-3xl mx-auto mt-20" data-aos="zoom-y-out">
+     <div className="max-w-3xl mx-auto mt-4" data-aos="zoom-y-out">
       <div className="relative flex items-start bg-white border-2 border-gray-200 rounded">
        {/* Testimonial */}
        <div className="px-12 py-8 pt-20 mx-4 text-center md:mx-0">
