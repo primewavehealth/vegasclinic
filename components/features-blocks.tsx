@@ -100,7 +100,7 @@ export default function FeaturesBlocks() {
          </g>
         </g>
        </svg>
-       <h4 className="mb-1 text-xl font-bold leading-snug tracking-tight">
+       <h4 className="mb-1 text-xl font-bold text-center leading-snug tracking-tight">
         Skin Rejuvenation Treatments
        </h4>
        <p className="text-center text-gray-600">
@@ -184,7 +184,7 @@ export default function FeaturesBlocks() {
          </g>
         </g>
        </svg>
-       <h4 className="mb-1 text-xl font-bold leading-snug tracking-tight">
+       <h4 className="mb-1 text-xl text-center font-bold leading-snug tracking-tight">
         Body Contouring & Sculpting
        </h4>
        <p className="text-center text-gray-600">
