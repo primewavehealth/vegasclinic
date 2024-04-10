@@ -7,7 +7,7 @@
         aria-hidden="true"
     ></div>
     <div className="relative max-w-6xl px-4 mx-auto sm:px-6 md:px-25">
-        <div className="py-12 md:py-10">
+        <div>
         {/* Section header */}
         <div className="max-w-3xl pb-12 mx-auto text-center md:pb-10">
         <h2 className="mb-4 h2">Explore Our Services</h2>
