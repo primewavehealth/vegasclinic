@@ -3,11 +3,9 @@ export default function FeaturesBlocks() {
   <section className="relative" id="services">
    {/* Section background (needs .relative class on parent and next sibling elements) */}
    <div
-    className="absolute bg-gray-900 rounded inset-0 top-1/6 pointer-events-none md:inset-x-12 md:inset-y-5 md:left-1/10  md:right-1/10 mt-96 mb-4 mx-1 md:mt-60 lg:mt-5"
+    className="absolute inset-0 top-1/6 pointer-events-none md:inset-x-12 md:inset-y-5 md:left-1/10  md:right-1/10 mt-96 mb-4 mx-1 md:mt-60 lg:mt-5"
     aria-hidden="true"
    ></div>
-   <div className="absolute bottom-0 left-0 right-0 w-px h-20 p-px m-auto transform translate-y-1/2"></div>
-
    <div className="relative max-w-6xl px-4 mx-auto sm:px-6">
     <div className="py-12 md:py-20">
      {/* Section header */}
@@ -19,8 +17,10 @@ export default function FeaturesBlocks() {
        touch, ensuring you receive the finest in aesthetic enhancement and
        holistic well-being.
       </p>
-     </div>
-
+    </div>
+    <div className="bg-gray-900 rounded">
+     <div className="px-4 mx-auto sm:px-6">
+      <div className="py-8 md:py-20">
      {/* Items */}
      <div className="grid items-start max-w-sm gap-6 mx-auto md:grid-cols-2 lg:grid-cols-3 md:max-w-2xl lg:max-w-none">
       {/* 1st item */}
@@ -263,6 +263,9 @@ export default function FeaturesBlocks() {
         Timeless Beauty: Revitalize Your Skin with Precision.
        </p>
       </div>
+     </div>
+     </div>
+     </div>
      </div>
     </div>
    </div>
